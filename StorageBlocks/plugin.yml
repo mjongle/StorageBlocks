@@ -1,0 +1,6 @@
+name: StorageBlocks
+version:  Beta 1
+author: Mjongle
+description: More ways to store your blocks & items!
+main: net.mjongle.storageblocks.StorageBlocks
+depend: [Spout]
